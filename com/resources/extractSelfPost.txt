@@ -1,0 +1,96 @@
+**tournament info:**
+
+* **[iem season x - cologne](http://lol.esportspedia.com/wiki/iem_season_x_-_cologne)**
+* **date:**  december 18 - december 20
+* **prize pool:** $ 50,000 usd
+* **patch:** [5.23](http://na.leagueoflegends.com/en/news/game-updates/patch/patch-523-notes) with  **illaoi** enabled.
+* **streams:**  [twitch](http://www.twitch.tv/esl_lol)
+* **host:** **[sean charles](https://twitter.com/withsean)**.
+* **desk:** william "**[chobra](https://twitter.com/willchobra)**" cho, marcel "**[dexter](https://twitter.com/marcelfeldkamp)**" feldkamp, jakob "**[yamatocannon](https://twitter.com/yamatomebdi)**" mebdi.
+* **casters:** devin "**[piratechnics](https://twitter.com/piratechnics)**" younge, mitch "**[ubershouts](https://twitter.com/ubershouts)**" leslie, christopher "**[papasmithy](https://twitter.com/papasmithy)**" smith, indiana "**[froskurinn](https://twitter.com/lolfroskurinn)**" black.
+* **chinese translator:** **[rachel gu](https://twitter.com/rachelyounggu)**.
+* **observers:** christopher "**[panky](https://twitter.com/lolpanky)**" pankhurst, martin "**[unso](https://twitter.com/unsolol)**" szarnas.
+* **format:**
+  * **6 teams:**
+     * 2 eu teams (2 fanvoted)
+     * 2 na teams (2 fanvoted)
+     * 1 chinese team (fanvoted)
+     * 1 korean team (winner of the **2015 lol kespa cup**)
+ * **playoffs.**
+     * quarterfinals and semifinals are best of three.
+      * finals are best of five.
+* **teams**:
+   * **eu lcs:** [fnatic](http://lol.esportspedia.com/wiki/fnatic) - **fnc** [](#fnc); [h2k-gaming](http://lol.esportspedia.com/wiki/h2k-gaming) - **h2k** [](#h2k)
+   * **na lcs:** [cloud9](http://lol.esportspedia.com/wiki/cloud9) - **c9** [](#c9);[ team dignitas](http://lol.esportspedia.com/wiki/team_dignitas) - **dig** [](#dig)
+  * **lpl:** [qiao gu reapers](http://lol.esportspedia.com/wiki/qiao_gu_reapers) - **qg** [](#qg)
+  * **lck:** [ever](http://lol.esportspedia.com/wiki/ever) - **eve** [](#eve)
+
+---
+
+##day 1, friday - december 18^th
+
+##quarterfinals
+
+
+* **full stream:** [twitch](http://www.twitch.tv/esl_lol/v/30574431) / youtube
+
+|#|team 1|vs.|team 2|twitch|twitch|youtube|youtube|highlights|discussion
+:--:|--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+a1 [](http://www.table_title.com "quarterfinals") | **dig** [](#dig) |vs.| [](#qg) **qg** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30574431?t=54m12s) | [game start](http://www.twitch.tv/esl_lol/v/30574431?t=1h03m19s) | [picks &amp; bans](https://www.youtube.com/watch?v=biuywcdapeu) | [game start](https://www.youtube.com/watch?v=biuywcdapeu&t=7m33s) | [highlights](https://www.youtube.com/watch?v=ys2ki12e9y0) |
+a2| **qg** [](#qg) |vs.| [](#dig) **dig** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30574431?t=1h47m41s) | [game start](http://www.twitch.tv/esl_lol/v/30574431?t=1h57m05s) | [picks &amp; bans](https://www.youtube.com/watch?v=ytsjecr73nk) | [game start](https://www.youtube.com/watch?v=ytsjecr73nk&t=7m45s) | [highlights](https://www.youtube.com/watch?v=j67z3z9gnsc) |
+a3| **dig** [](#dig) |vs.| [](#qg) **qg** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30574431?t=2h50m04s) | [game start](http://www.twitch.tv/esl_lol/v/30574431?t=2h58m55s) | [picks &amp; bans](https://www.youtube.com/watch?v=haijxqn-y48) | [game start](https://www.youtube.com/watch?v=haijxqn-y48&t=7m12s) | [highlights](https://www.youtube.com/watch?v=0zaivajgeca) | [spoilers!](https://redd.it/3xdjbq)
+b1| **c9** [](#c9) |vs.| [](#h2k) **h2k** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30574431?t=4h04m09s) | [game start](http://www.twitch.tv/esl_lol/v/30574431?t=4h18m02s) | [picks &amp; bans](https://www.youtube.com/watch?v=m91u7wtvfhg) | [game start](https://www.youtube.com/watch?v=m91u7wtvfhg&t=12m25s) | [highlights](https://www.youtube.com/watch?v=mlzrhbpmyai) |
+b2| **h2k** [](#h2k) |vs.| [](#c9) **c9** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30574431?t=5h02m42s) | [game start](http://www.twitch.tv/esl_lol/v/30574431?t=5h09m40s) | [picks &amp; bans](https://www.youtube.com/watch?v=ltksvh05huy) | [game start](https://www.youtube.com/watch?v=ltksvh05huy&t=5m30s) | [highlights](https://www.youtube.com/watch?v=pmhzyzmxpoa) |
+b3| **c9** [](#c9) |vs.| [](#h2k) **h2k** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30574431?t=6h00m34s) | [game start](http://www.twitch.tv/esl_lol/v/30574431?t=6h09m15s) | [picks &amp; bans](https://www.youtube.com/watch?v=8291rbas9sy) | [game start](https://www.youtube.com/watch?v=8291rbas9sy&t=7m13s) | [highlights](https://www.youtube.com/watch?v=pcdy-5cnmpy) | [spoilers!](https://redd.it/3xe9lu)
+
+* **discussion thread:** [spoilers!](https://redd.it/3xcj3h)
+
+*covered by: /u/punistick*
+
+---
+
+##day 2, saturday - december 19^th
+
+##semifinals
+
+
+* **full stream:** [twitch](http://www.twitch.tv/esl_lol/v/30751289) / youtube
+
+|#|team 1|vs.|team 2|twitch|twitch|youtube|youtube|highlights|discussion
+:--:|--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+c1 [](http://www.table_title.com "semifinals") | **fnc** [](#fnc) |vs.| **[winner of a](/s "qg")** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30751289?t=52m59s) | [game start](http://www.twitch.tv/esl_lol/v/30751289?t=1h03m15s) | [picks &amp; bans](https://www.youtube.com/watch?v=ly3w6lquxni) | [game start](https://www.youtube.com/watch?v=ly3w6lquxni&t=8m47s) | [highlights](https://www.youtube.com/watch?v=vscxhuumqc8)
+c2| **[winner of a](/s "qg")** |vs.| [](#fnc) **fnc** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30751289?t=1h53m02s) | [game start](http://www.twitch.tv/esl_lol/v/30751289?t=2h03m11s) | [picks &amp; bans](https://www.youtube.com/watch?v=opbatlkeeb4) | [game start](https://www.youtube.com/watch?v=opbatlkeeb4&t=8m39s) | [highlights](https://www.youtube.com/watch?v=kgfrcgzanfm)
+c3| **fnc** [](#fnc) |vs.| **[winner of a](/s "qg")** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30751289?t=2h56m15s) | [game start](http://www.twitch.tv/esl_lol/v/30751289?t=3h05m11s) | [picks &amp; bans](https://www.youtube.com/watch?v=517iy9vpvtu) | [game start](https://www.youtube.com/watch?v=517iy9vpvtu&t=7m25s) | [highlights](https://www.youtube.com/watch?v=x2gja1ue3n0) | [spoilers!](https://redd.it/3xhqqv)
+d1| **eve** [](#eve) |vs.| **[winner of b](/s "h2k")** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30751289?t=4h23m33s) | [game start](http://www.twitch.tv/esl_lol/v/30751289?t=4h32m40s) | [picks &amp; bans](https://www.youtube.com/watch?v=qjvs9syhype) | [game start](https://www.youtube.com/watch?v=qjvs9syhype&t=7m36s) | [highlights](https://www.youtube.com/watch?v=ug0septqzum)
+d2|  **[winner of b](/s "h2k")** |vs.| [](#eve) **eve** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30751289?t=5h18m39s) | [game start](http://www.twitch.tv/esl_lol/v/30751289?t=5h27m10s) | [picks &amp; bans](https://www.youtube.com/watch?v=gm9397drbhq) | [game start](https://www.youtube.com/watch?v=gm9397drbhq&t=7m00s) | [highlights](https://www.youtube.com/watch?v=ojg4xobm1to)
+d3|  **eve** [](#eve) |vs.| **[winner of b](/s "h2k")** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30751289?t=6h20m22s) | [game start](http://www.twitch.tv/esl_lol/v/30751289?t=6h29m33s) | [picks &amp; bans](https://www.youtube.com/watch?v=rdyu4-rk-tw) | [game start](https://www.youtube.com/watch?v=rdyu4-rk-tw&t=7m41s) | [highlights](https://www.youtube.com/watch?v=lhypl1jmeoa) | [spoilers!](https://redd.it/3xifbg)
+
+* **discussion thread:** [spoilers!](https://redd.it/3xgoq6)
+
+*covered by: /u/punistick*
+
+---
+
+####day 3, sunday - december 20^th
+
+####finals
+
+
+* **full stream:** [twitch](http://www.twitch.tv/esl_lol/v/30934788) / youtube
+
+|#|team 1|vs.|team 2|twitch|twitch|youtube|youtube|highlights|discussion
+:--:|--:|:--:|:--|:--:|:--:|:--:|:--:|:--:|:--:|:--:
+e1 [](http://www.table_title.com "finals") | **[winner of c](/s "qg")** |vs.| **[winner of d](/s "eve")** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30934788?t=49m57s) | [game start](http://www.twitch.tv/esl_lol/v/30934788?t=1h06m49s) | [picks &amp; bans](https://www.youtube.com/watch?v=l1nwemibjzg) | [game start](https://www.youtube.com/watch?v=l1nwemibjzg&t=7m45s) | [highlights](https://www.youtube.com/watch?v=l0-iqqasuz4)
+e2| **[winner of d](/s "eve")** |vs.| **[winner of c](/s "qg")** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30934788?t=1h59m41s) | [game start](http://www.twitch.tv/esl_lol/v/30934788?t=2h08m10s) | [picks &amp; bans](https://www.youtube.com/watch?v=mmhaichogvc) | [game start](https://www.youtube.com/watch?v=mmhaichogvc&t=7m00s) | [highlights](https://www.youtube.com/watch?v=d9rkcyw4tpw)
+e3| **[winner of c](/s "qg")** |vs.| **[winner of d](/s "eve")** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30934788?t=2h55m28s) | [game start](http://www.twitch.tv/esl_lol/v/30934788?t=3h04m26s) | [picks &amp; bans](https://www.youtube.com/watch?v=lpx6w1oarlm) | [game start](https://www.youtube.com/watch?v=lpx6w1oarlm&t=7m26s) | [highlights](https://www.youtube.com/watch?v=burphsqzxqs)
+e4| **[winner of d](/s "eve")** |vs.| **[winner of c](/s "qg")** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30934788?t=3h40m40s) | [game start](http://www.twitch.tv/esl_lol/v/30934788?t=3h50m02s) | [picks &amp; bans](https://www.youtube.com/watch?v=lr27uj33bwi) | [game start](https://www.youtube.com/watch?v=lr27uj33bwi&t=7m50s) | [highlights](https://www.youtube.com/watch?v=agvwfdezfdm)
+e5| **[winner of c](/s "qg")** |vs.| **[winner of d](/s "eve")** | [picks &amp; bans](http://www.twitch.tv/esl_lol/v/30934788?t=4h28m23s) | [game start](http://www.twitch.tv/esl_lol/v/30934788?t=4h37m44s) | [picks &amp; bans](https://www.youtube.com/watch?v=dtkyaxnoeeq) | [game start](https://www.youtube.com/watch?v=dtkyaxnoeeq&t=7m49s) | [highlights](https://www.youtube.com/watch?v=cr0jtcmktza) | [spoilers!](https://redd.it/3xmd12)
+
+
+* **discussion thread:** [spoilers!](https://redd.it/3xkx65)
+
+*covered by: /u/punistick*
+
+---
+
+**stay up to date 24/7 - follow us on [twitter](http://twitter.com/eventvods), [facebook](http://www.facebook.com/eventvods) &amp; [youtube](http://www.youtube.com/loleventvods?sub_confirmation=1). check out our apps for [android](http://play.google.com/store/apps/details?id=com.kox.zzreal) &amp; [ios](https://itunes.apple.com/us/app/loleventvods/id892551646?l=hr&amp;ls=1&amp;mt=8)!**
